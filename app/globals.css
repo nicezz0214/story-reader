@@ -68,6 +68,10 @@ select {
     radial-gradient(circle at 20% 0%, rgba(13, 148, 136, 0.08), transparent 35%);
 }
 
+.reader-bookmark-mark {
+  box-shadow: inset 3px 0 0 rgba(13, 148, 136, 0.38);
+}
+
 .fade-in {
   animation: fade-in 220ms ease-out;
 }
